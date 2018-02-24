@@ -1,0 +1,14 @@
+---
+---
+
+<link rel="stylesheet" href="styles.css" type="text/css">
+
+<img src="images/alex-picture.jpg" style="width:25%; border:10px solid; margin-right: 20px" align="left">
+
+Data Engineer with 5+ years of experience in providing automated ETL, Reporting, and Analytic solutions and I am pursuing a Masters in Data Science through the University of Illinois at Urbana-Champaign.
+
+Data Analytic skills include automation, ETL, relational database querying, reporting, and developing dashboards. My background in automation has been a combination of utilizing various scripting languages such as Python, PowerShell, Batch, and Bash to automate various reports, ETL, or testing processes. My experience in ETL is mostly with Talend with some work in SSIS. My experience in querying relational databases has been primarily in Microsoft SQL Server with some exposure to MySQL and Oracle. My reporting background extends to developing static reports in SSRS and Excel and dashboards in PowerBI. 
+
+I started my analytics career with analyzing a digital model of the PATRIOT missile defense system. I worked directly with the software team that developed the model and for the military stakeholders in providing assessments and the results of the model. Following there I briefly worked for an oil instrumentation company that provided hardware and software to drilling rigs. After a decline in the oil industry, I decided to transition my career to FreseniusRx, a specialty pharmacy, that supports patient’s dialysis treatment. Following FresniusRx, I am now working with axialHealthcare, a healthcare company devoted to combating opioid addiction.
+
+My full CV is available [here](files/AlexAntonison_Resume.pdf).
