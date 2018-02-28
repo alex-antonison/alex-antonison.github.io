@@ -17,7 +17,7 @@ navbar:
     - icon: fa-twitter fa-lg
       href: https://twitter.com/adantonison
     - icon: fa-linkedin fa-lg
-      href: www.linkedin.com/in/alexanderantonison
+      href: https://www.linkedin.com/in/alexanderantonison
 output:
   html_document:
     theme: paper
