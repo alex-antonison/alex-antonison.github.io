@@ -3,7 +3,7 @@
 
 <link rel="stylesheet" href="styles.css" type="text/css">
 
-<img src="images/alex-picture.jpg" style="width:25%; border:10px solid; margin-right: 20px" align="left">
+<img src="images/alex-main-picture.jpg" style="width:25%; border:10px solid; margin-right: 20px" align="left">
 
 I am a Data Engineer turned Data Scientist.  I spent the first years of my career working mostly in SQL, Python, Talend, and relational databases building automated data pipelines to feed reporting and dashboard platforms with some analysis on the side.  Now that I have transitioned to Data Science, my focus has shifted from building data to figuring out ways I can leverage data to help support business goals through data analysis and machine learning.
 
