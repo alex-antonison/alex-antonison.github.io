@@ -8,4 +8,5 @@
 
 In this talk, I talk about my journey into data science and how as I delved further into the topic that it is important to keep ethics in mind when building models or collecting data.  There is both a high potential for good and harm to both individuals and entire communities.  
 
+
 You can see the slides [Ethical use of algorithms and data](https://docs.google.com/presentation/d/1QMtzOeran4IbP0_e5ZIG3EuD59I506kO_dokiHHjPUA/edit?usp=sharing)
