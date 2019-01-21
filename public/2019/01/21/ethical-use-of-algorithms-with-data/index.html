@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="generator" content="Hugo 0.53" />
+
+
+<title>Ethical use of algorithms with data - Alex Antonison</title>
+<meta property="og:title" content="Ethical use of algorithms with data - Alex Antonison">
+
+
+
+  
+
+
+
+
+
+
+
+<link rel="stylesheet" href="/css/fonts.css" media="all">
+<link rel="stylesheet" href="/css/main.css" media="all">
+
+
+
+  </head>
+  <body>
+    <div class="wrapper">
+      <header class="header">
+        <nav class="nav">
+  <a href="/" class="nav-logo">
+    <img src="/images/logo.png"
+         width="50"
+         height="50"
+         alt="Logo">
+  </a>
+
+  <ul class="nav-links">
+    
+    <li><a href="/about/"> About</a></li>
+    
+    <li><a href="/talks/"> Talks</a></li>
+    
+    <li><a href="https://github.com/alex-antonison">GitHub</a></li>
+    
+    <li><a href="https://www.linkedin.com/in/alexanderantonison/">LinkedIn</a></li>
+    
+    <li><a href="https://twitter.com/adantonison">Twitter</a></li>
+    
+  </ul>
+</nav>
+
+      </header>
+
+
+<main class="content" role="main">
+
+  <article class="article">
+    
+    <span class="article-duration">4 min read</span>
+    
+
+    <h1 class="article-title">Ethical use of algorithms with data</h1>
+
+    
+    <span class="article-date">2019/01/21</span>
+    
+
+    <div class="article-content">
+      
+
+
+<div id="preface" class="section level3">
+<h3>Preface</h3>
+<p>Before I talk about my views on ethics in the realm of Data Science, I first want to talk about how I got into Data Science. After spending two years analyzing data doing a lot of scripting and SQL, I was at a point in my career where I wanted to pick a path. After a bit of searching I landed on the field of Data Science since it is a perfect fit with my love of statistics and working with data. Like with anything, my first approach was to scour the internet and try and find as much information on the topic as possible. I took a few Coursera courses, followed <em>top data scientists on twitter</em>, read blogs, and listened to podcasts. More often than not, the topics were usually around applications of machine learning, interesting papers, or interviews. However, periodically there was something that would catch my eye on a topic like “gender biased word embeddings” and quickly I realized that although Data Science has large potential for good, it also has a large potential to either harm individuals or entire communities. Once I was turned onto this topic, I started to actively search for these issues and came upon a couple of good articles that covered a wide variety of issues such as <a href="https://www.technologyreview.com/s/608248/biased-algorithms-are-everywhere-and-no-one-seems-to-care/">Biased Algorithms Are Everywhere, and No One Seems to Care</a></p>
+<p>However, before I go any further, I would like to introduce two concepts that are at the center of this post.</p>
+<ul>
+<li><strong>Machine Learning:</strong> “Machine learning algorithms build a mathematical model of sample data, known as”training data“, in order to make predictions or decisions without being explicitly programmed to perform the task.” - <a href="https://en.wikipedia.org/wiki/Machine_learning">https://en.wikipedia.org/wiki/Machine_learning</a></li>
+<li><strong>Algorithmic Bias:</strong> “Algorithmic bias occurs when a computer system reflects the implicit values of the humans who are involved in coding, collecting, selecting, or using data to train the algorithm.” - <a href="https://en.wikipedia.org/wiki/Algorithmic_bias">https://en.wikipedia.org/wiki/Algorithmic_bias</a></li>
+</ul>
+<p>With that covered, to the main part of this post where I talk about a handful of examples where things or products were built without ethical considerations.</p>
+</div>
+<div id="gender-biased-word-embeddings" class="section level3">
+<h3>Gender biased word embeddings</h3>
+<p>Okay, so before I talk about how a <a href="https://en.wikipedia.org/wiki/Word_embedding">word embedding</a> can be gender biased, first I would like to talk about what is a word embedding. A word embedding is a very useful tool where a model can represents the relationships between words as mathematical values to allow for associations such as “man:king” with “woman:queen” and “paris:france” with “tokyo:japan”. Cool right? However, this bias has been extended to “man:programmer” with “woman:homemaker”. Not cool. A common model used is Word2Vec developed by Google back in 2013 trained on Google News texts. Unfortunately because the data this model was trained on was gender biased, so are the results. But there is hope! Researchers have done work to both quantify the bias and come up with methods to “debias” the embeddings in <a href="https://arxiv.org/abs/1607.06520">Man is to Computer Programmer as Woman is to Homemaker? Debiasing Word Embeddings</a>. For more on this, I recommend <a href="https://www.technologyreview.com/s/602025/how-vector-space-mathematics-reveals-the-hidden-sexism-in-language/">How Vector Space Mathematics Reveals the Hidden Sexism in Language</a>.</p>
+</div>
+<div id="mortage-loan-interest-rate-bias" class="section level3">
+<h3>Mortage loan interest rate bias</h3>
+<p>I find this to be a more traditional instance where financial institutions set out to use “big data” with “machine learning” to find ways to infer interest rates based on geography or characteristics of applicants. This is referred to as “Algorithmic Strategic Pricing”. A result of this, <a href="http://faculty.haas.berkeley.edu/morse/research/papers/discrim.pdf">based on a study done by UC Berkly</a>, African Americans and Latino borrowers pay more on purcahse and refinance loans than White and Asian ethnicity borrowers. “The lenders may not be specifically targeting minorities in their pricing schemes, but by profiling non-shopping applicants they end up targeting them” said <a href="http://faculty.haas.berkeley.edu/morse/">Adair Morse</a>.</p>
+<p>For more information, you can check out <a href="http://newsroom.haas.berkeley.edu/minority-homebuyers-face-widespread-statistical-lending-discrimination-study-finds/">Minority homebuyers face widespread statistical lending discrimination, study finds</a> or the study itself <a href="http://faculty.haas.berkeley.edu/morse/research/papers/discrim.pdf">Consumer-Lending Discrimination in the Era of FinTech</a></p>
+</div>
+<div id="image-recognition-bias" class="section level3">
+<h3>Image recognition bias</h3>
+</div>
+<div id="microsoft-tay-twitter-bot" class="section level3">
+<h3>Microsoft Tay twitter bot</h3>
+</div>
+<div id="facebook-cambridge-analytica-scandal" class="section level3">
+<h3>Facebook Cambridge Analytica scandal</h3>
+</div>
+<div id="additional-sources" class="section level3">
+<h3>Additional sources</h3>
+<p>If you are still interested in looking more into this topic, I highly recommend checking out the following:</p>
+<ul>
+<li>Articles
+<ul>
+<li><a href="https://www.technologyreview.com/s/610192/were-in-a-diversity-crisis-black-in-ais-founder-on-whats-poisoning-the-algorithms-in-our/">“We’re in a diversity crisis”: cofounder of Black in AI on what’s poisoning algorithms in our lives</a></li>
+<li><a href="https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing">Machine bias risk assessments in criminal sentencing</a></li>
+</ul></li>
+<li>Podcasts
+<ul>
+<li><a href="https://dataskeptic.com/blog/episodes/2018/data-ethics">Data Skeptic - Data Ethics</a></li>
+<li><a href="http://lineardigressions.com/episodes/2018/12/30/facial-recognition-society-and-you">Linear Digressions - Facial recognition, society, and the law</a></li>
+<li><a href="http://lineardigressions.com/episodes/2018/2/25/when-is-open-data-too-open">Linear Digressions - When is open data too open?</a></li>
+</ul></li>
+<li>Books
+<ul>
+<li><a href="https://weaponsofmathdestructionbook.com/">Weapons of Math Destruction</a></li>
+</ul></li>
+</ul>
+</div>
+
+    </div>
+  </article>
+
+  
+
+
+</main>
+
+      <footer class="footer">
+        <ul class="footer-links">
+          <li>
+            <a href="/index.xml" type="application/rss+xml" target="_blank">RSS feed</a>
+          </li>
+          <li>
+            <a href="https://gohugo.io/" class="footer-links-kudos">Made with <img src="/images/hugo-logo.png" alt="Img link to Hugo website" width="22" height="22"></a>
+          </li>
+        </ul>
+      </footer>
+
+    </div>
+    
+
+    
+
+    
+  </body>
+</html>
+
