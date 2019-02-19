@@ -6,18 +6,18 @@
     <description>Recent content on Alex Antonison</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 21 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 19 Feb 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Ethical use of algorithms with data</title>
-      <link>/2019/01/21/ethical-use-of-algorithms-with-data/</link>
-      <pubDate>Mon, 21 Jan 2019 00:00:00 +0000</pubDate>
+      <link>/2019/02/19/ethical-use-of-algorithms-with-data/</link>
+      <pubDate>Tue, 19 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>/2019/01/21/ethical-use-of-algorithms-with-data/</guid>
-      <description>Preface Before I talk about my views on ethics in the realm of Data Science, I first want to talk about how I got into Data Science. After spending two years analyzing data doing a lot of scripting and SQL, I was at a point in my career where I wanted to pick a path. After a bit of searching I landed on the field of Data Science since it is a perfect fit with my love of statistics and working with data.</description>
+      <guid>/2019/02/19/ethical-use-of-algorithms-with-data/</guid>
+      <description>Preface Before I talk about my views on ethics in the realm of Data Science, I first want to talk about how I got into Data Science. I spent the first two years of my career doing some analysis accompanied by mostly Data Engineering before I knew it was Data Engineering. At this two year mark in 2014, I was at a point where I wanted to figure out where I wanted to take my career next.</description>
     </item>
     
     <item>
@@ -35,8 +35,8 @@
       <pubDate>Thu, 05 May 2016 21:48:51 -0700</pubDate>
       
       <guid>/talks/</guid>
-      <description> Ethical use of algorithms with data  In this talk, I discuss my journey into data science and how I discovered the importance of keeping ethics in mind when building models or collecting data. There is both a high potential for good and harm to both individuals and entire communities.
- You can see the slides here Ethical use of algorithms and data ~30 minutes duration  </description>
+      <description> Ethical use of algorithms with data  Duration: ~30 minutes In this talk, I discuss my journey into data science and how I discovered the importance of keeping ethics in mind when building models or collecting data. There is both a high potential for good and harm to both individuals and entire communities.
+ You can see the slides here Ethical use of algorithms and data  </description>
     </item>
     
     <item>

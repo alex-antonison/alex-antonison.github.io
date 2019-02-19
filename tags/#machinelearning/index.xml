@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Alex Antonison</title>
-    <link>/post/</link>
-    <description>Recent content in Posts on Alex Antonison</description>
+    <title>#Machinelearning on Alex Antonison</title>
+    <link>/tags/#machinelearning/</link>
+    <description>Recent content in #Machinelearning on Alex Antonison</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 19 Feb 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/#machinelearning/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
