@@ -1,0 +1,24 @@
+name: "Alexander D. Antonison"
+output_dir: "."
+navbar:
+  title: "Alexander D. Antonison"
+  left:
+    - text: "Projects"
+      href: projects.html
+    - text: "Blog"
+      href: blog.html
+    - text: "Talks"
+      href: talks.html
+  right:
+    - icon: fa-envelope fa-lg
+      href: contact.html
+    - icon: fa-github fa-lg
+      href: https://github.com/alex-antonison
+    - icon: fa-twitter fa-lg
+      href: https://twitter.com/adantonison
+    - icon: fa-linkedin fa-lg
+      href: https://www.linkedin.com/in/alexanderantonison
+output:
+  html_document:
+    theme: paper
+    css: 'styles.css'
