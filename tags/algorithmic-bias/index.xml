@@ -20,5 +20,15 @@
       <description>Preface Before I talk about my views on ethics in the realm of Data Science, I first want to talk about how I got into Data Science. I spent the first two years of my career doing some analysis accompanied by mostly Data Engineering before I knew it was Data Engineering. At this two year mark in 2014, I was at a point where I wanted to figure out where I wanted to take my career next.</description>
     </item>
     
+    <item>
+      <title>Ethical use of algorithms with data</title>
+      <link>/talk/ethical-use-of-algorithms-with-data/</link>
+      <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/talk/ethical-use-of-algorithms-with-data/</guid>
+      <description> Ethical use of algorithms with data  Duration: ~30 minutes In this talk, I discuss my journey into data science and how I discovered the importance of keeping ethics in mind when building models or collecting data. There is both a high potential for good and harm to both individuals and entire communities.
+ You can see the slides here Ethical use of algorithms and data   </description>
+    </item>
+    
   </channel>
 </rss>
