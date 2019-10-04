@@ -1,0 +1,18 @@
+---
+title: Ethical use of algorithms with data
+author: Alex Antonison
+date: '2019-03-09'
+slug: ethical-use-of-algorithms-with-data
+categories: []
+tags:
+  - Algorithmic bias
+  - machine learning
+  - image recognition
+  - word embeddings
+---
+
+## Ethical use of algorithms with data
+
+- *Duration:* ~30 minutes
+- In this talk, I discuss my journey into data science and how I discovered the importance of keeping ethics in mind when building models or collecting data.  There is both a high potential for good and harm to both individuals and entire communities.  
+- You can see the slides here [Ethical use of algorithms and data](https://docs.google.com/presentation/d/1QMtzOeran4IbP0_e5ZIG3EuD59I506kO_dokiHHjPUA/edit?usp=sharing)
