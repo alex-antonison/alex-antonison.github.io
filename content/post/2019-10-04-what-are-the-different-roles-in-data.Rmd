@@ -42,7 +42,7 @@ _Key Areas:_ concept of production code - optimized data warehousing/mart/store 
 
 **---------------------------------------------------------------**
 
-*Most companies can be highly successful doing Data Analytics and Engineering well.  Without these two areas in place, a Data Scientist will be ineffective since they will simply be doing a combination Data Analytics/Engineering.  Often times this leads to mismatched skill sets and expectations on both the side of the organization as well as the Data Scientist.*
+*Most companies can be highly successful doing Data Analytics and Engineering well.  Without these two areas in place, a Data Scientist will be ineffective since they will simply be doing a combination of Data Analytics/Engineering.  Often times this leads to mismatched skill sets and expectations on both the side of the organization as well as the Data Scientist.*
 
 **---------------------------------------------------------------**
 
