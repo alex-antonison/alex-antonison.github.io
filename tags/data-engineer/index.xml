@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Alex Antonison</title>
-    <link>/post/</link>
-    <description>Recent content in Posts on Alex Antonison</description>
+    <title>data engineer on Alex Antonison</title>
+    <link>/tags/data-engineer/</link>
+    <description>Recent content in data engineer on Alex Antonison</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 04 Oct 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/data-engineer/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -18,15 +18,6 @@
       
       <guid>/2019/10/04/what-are-the-different-roles-in-data/</guid>
       <description>The intended audience for this post are people interested in getting into data or businesses looking to use data to drive business value. With this in mind, I attempted to stay high level and provide enough information and key words for someone to find more in-depth resources on any given topic. Additionally, when highlighting skills, I focus on what I have observed being commonly used in industry based on experience, combing through job postings, and networking.</description>
-    </item>
-    
-    <item>
-      <title>Ethical use of algorithms with data</title>
-      <link>/2019/03/09/ethical-use-of-algorithms-with-data/</link>
-      <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/2019/03/09/ethical-use-of-algorithms-with-data/</guid>
-      <description>Preface Before I talk about my views on ethics in the realm of Data Science, I first want to talk about how I got into Data Science. I spent the first two years of my career doing some analysis accompanied by mostly Data Engineering before I knew it was Data Engineering. At this two year mark in 2014, I was at a point where I wanted to figure out where I wanted to take my career next.</description>
     </item>
     
   </channel>

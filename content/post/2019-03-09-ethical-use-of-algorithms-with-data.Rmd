@@ -11,7 +11,7 @@ tags:
   - word embeddings
 ---
 
-### Preface
+### Preface 
 
 Before I talk about my views on ethics in the realm of Data Science, I first want to talk about how I got into Data Science.  I spent the first two years of my career doing some analysis accompanied by mostly Data Engineering before I knew it was Data Engineering.  At this two year mark in 2014, I was at a point where I wanted to figure out where I wanted to take my career next.  After a bit of searching, I landed on the field of Data Science since it seemed like a perfect fit with my love of statistics and working with data.  Like with anything, my first approach was to search and try and find as much information on the topic as possible.  I took a few Coursera courses, followed _top data scientists on twitter_, read blogs, and listened to podcasts.  More often than not, the topics were usually around applications of machine learning, interesting papers on machine learning models, or interviews with industry experts.  However, periodically there was a post or podcast that would catch my eye on a topic like "gender biased word embeddings." I quickly realized that although Data Science has the propensity for good, it also has a potential to harm individuals or entire communities.  I began actively searching for these issues and came upon a couple of good articles that covered a wide variety of issues such as [Biased Algorithms Are Everywhere, and No One Seems to Care](https://www.technologyreview.com/s/608248/biased-algorithms-are-everywhere-and-no-one-seems-to-care/)
 
