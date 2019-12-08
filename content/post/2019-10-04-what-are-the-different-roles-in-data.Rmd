@@ -77,3 +77,10 @@ A Machine Learning Engineer should work closely with the Data Science, Data Engi
 - **Docker** - While managing packages is helpful, docker allows you to manage the entire environment of a script which ensures reproducibility.  _Dev Ops people will love you._
   - A good resource for doing this in R is [An Introduction to Docker for R Users](https://colinfay.me/docker-r-reproducibility/) by Colin Fay
   - A good resource for Python is [Docker](https://www.fullstackpython.com/docker.html)
+  
+### Updates
+
+#### 2019-12-08: 
+
+* renv is now offered on cran, yay!
+* Changed the method of suggest python environment management to being venv based on research and testing for consistently and reliably setting up and managemetn environments in python. 
