@@ -283,9 +283,9 @@ $(document).ready(function(){
 <li><strong>Cloud computing</strong> is becoming more common place when working with data in organizations. AWS, Microsoft Azure, and Google all offer free tiers that can allow you to get some hands on experience even if your organization does not use cloud computing.</li>
 <li><strong>Package management</strong> - With respect to R and Python, I suggest looking into utilities to manage packages to help with reproducibility.
 <ul>
-<li>For R you can use <a href="https://rstudio.github.io/packrat/">packrat</a> or <a href="https://github.com/rstudio/renv">renv</a>(renv is still in development but is my preference).</li>
-<li>For Python you can use <a href="https://github.com/pypa/pipenv">pipenv</a> or <a href="https://virtualenv.pypa.io/en/latest/">virtualenv</a> + <a href="https://virtualenvwrapper.readthedocs.io/en/latest/">virtaulenvwrapper</a></li>
-<li>For Python, I also recommend checking out <a href="https://www.anaconda.com/distribution/">Anaconda</a> as it also has an <a href="https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html">environment management</a> component to it as well.</li>
+<li>For R you I suggest using <a href="https://github.com/rstudio/renv">renv</a> over packrat as it is much more efficient at managing packages.</li>
+<li>For Python, I suggest using <a href="https://docs.python.org/3/library/venv.html">venv</a>. It is simple and I have never had issues using it yet.</li>
+<li>If you are new to Python, I also recommend checking out <a href="https://www.anaconda.com/distribution/">Anaconda</a>. However, I will admit my experiences with using it to manage and share environments has not been great. I only recommend Anaconda as it allows you to more easily get started in Python.</li>
 </ul></li>
 <li><strong>Docker</strong> - While managing packages is helpful, docker allows you to manage the entire environment of a script which ensures reproducibility. <em>Dev Ops people will love you.</em>
 <ul>
@@ -293,6 +293,16 @@ $(document).ready(function(){
 <li>A good resource for Python is <a href="https://www.fullstackpython.com/docker.html">Docker</a></li>
 </ul></li>
 </ul>
+</div>
+<div id="updates" class="section level3">
+<h3>Updates</h3>
+<div id="section" class="section level4">
+<h4>2019-12-08:</h4>
+<ul>
+<li>renv is now offered on cran, yay!</li>
+<li>Changed the method of suggest python environment management to being venv based on research and testing for consistently and reliably setting up and managemetn environments in python.</li>
+</ul>
+</div>
 </div>
 </div>
 
